@@ -41,29 +41,32 @@ Adjusting Screen Time: reducing screen time will be helpful since it take majori
 Ethical Discussion
 
 Privacy Statement
-What data is included?: Non-sensitive data such as general activity (eg. screen time, sleep) and public data such as electricity cuts.
-What is anonymized?: Information such as my name, exact details on the activity (such as who I socialise with) are excluded. So, there is no identifiable information in the data set.
+
+- What data is included?: Non-sensitive data such as general activity (eg. screen time, sleep) and public data such as electricity cuts.
+- What is anonymized?: Information such as my name, exact details on the activity (such as who I socialise with) are excluded. So, there is no identifiable information in the data set.
 
 Bias & Limitation Disclosure
-Memory bias: Some data input(such as electricity problems and hours before May 10th) are from memory. So, the data may slight over or under represent the exact activities happened.
-Subjective Scoring: The data set include efficiency score which is scored subjectively from how I felt during that activity on that day. It is not a standard metric.
-Small Dataset: The dataset is relatively small (only 3 week worth of data), it might not fully describe my activities and events across the year
+
+- Memory bias: Some data input(such as electricity problems and hours before May 10th) are from memory. So, the data may slight over or under represent the exact activities happened.
+- Subjective Scoring: The data set include efficiency score which is scored subjectively from how I felt during that activity on that day. It is not a standard metric.
+- Small Dataset: The dataset is relatively small (only 3 week worth of data), it might not fully describe my activities and events across the year
 
 Visualization Justification
-Line Chart for Avg Efficiency Trend: As I would like to show trend, I think line chart is the most clear choice since it can show ups and downs clearly.
 
-Line Chart for Hours spend on Activity: Even though it looks crowded on default, it can show clear trends when filtered. Similar to the previous reason.
+- Line Chart for Avg Efficiency Trend: As I would like to show trend, I think line chart is the most clear choice since it can show ups and downs clearly.
 
-Pie Chart for actvities per rweek: As I would like to show the distribution of activity time in the weeks and the categories are not many, I chose pie chart to represent the data.
+- Line Chart for Hours spend on Activity: Even though it looks crowded on default, it can show clear trends when filtered. Similar to the previous reason.
 
-Correlation Heat Map for factors and Avg efficienc: To show the correlation cleary to the audience, heat map is used instead of scatter plot.
+- Pie Chart for actvities per rweek: As I would like to show the distribution of activity time in the weeks and the categories are not many, I chose pie chart to represent the data.
 
-Bar Chart for impact on avg efficiency: To compare the impact of external factors, I chose bar chart since it can show the difference clearly and simple to read.
+- Correlation Heat Map for factors and Avg efficienc: To show the correlation cleary to the audience, heat map is used instead of scatter plot.
 
-Risk: Correlation heat map can be hard to interpret for general audience. It can cause misinterpretation. And since the data are daily trends the sharp spikes can look more exaggerated.
+- Bar Chart for impact on avg efficiency: To compare the impact of external factors, I chose bar chart since it can show the difference clearly and simple to read.
+
+- Risk: Correlation heat map can be hard to interpret for general audience. It can cause misinterpretation. And since the data are daily trends the sharp spikes can look more exaggerated.
 
 Responsible Decision
 
-Limitation on Decision: Since the data set is relatively small (Time-wise and Variable-wise). There can be more factors that can interfere with my activities. This limit my decision to be set upon conditions that available in the dataset.
+- Limitation on Decision: Since the data set is relatively small (Time-wise and Variable-wise). There can be more factors that can interfere with my activities. This limit my decision to be set upon conditions that available in the dataset.
 🤖 AI usage
 Gemini 3 Flash is used in the creation of the dashboard and visualization templates. Insights, EDA and Visualizations are done by human.
