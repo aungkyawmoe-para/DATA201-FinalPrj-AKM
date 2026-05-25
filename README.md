@@ -67,5 +67,7 @@ Visualization Justification
 Responsible Decision
 
 - Limitation on Decision: Since the data set is relatively small (Time-wise and Variable-wise). There can be more factors that can interfere with my activities. This limit my decision to be set upon conditions that available in the dataset.
-🤖 AI usage
-Gemini 3 Flash is used in the creation of the dashboard and visualization templates. Insights, EDA and Visualizations are done by human.
+
+AI usage
+
+- Gemini 3 Flash is used in the creation of the dashboard and visualization templates. Insights, EDA and Visualizations are done by human.
