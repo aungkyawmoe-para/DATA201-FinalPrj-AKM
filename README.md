@@ -6,18 +6,18 @@ Data is collected within the three weeks. One dataset include routine informatio
 
 Collected Data include:
 2 weeks record (Rountines).csv
-Date - MM/DD/YYYY
-Activity - Types of general activties that I do (Sleep, Social,Study, Class,Chores, Screen Time)
-Hour - the amount of hours spent on the activity
-Efficiency_score - subjective scoring (0 to 5) based upon how much I felt accomplished, learnt or satisfied within the activity
-Exam_Week - Boolean values that indicate whether the week is final week filled with exams and assignments, or not
-Week_no - numerical value to separate the weeks for analysis.
+- Date - MM/DD/YYYY
+- Activity - Types of general activties that I do (Sleep, Social,Study, Class,Chores, Screen Time)
+- Hour - the amount of hours spent on the activity
+- Efficiency_score - subjective scoring (0 to 5) based upon how much I felt accomplished, learnt or satisfied within the activity
+- Exam_Week - Boolean values that indicate whether the week is final week filled with exams and assignments, or not
+- Week_no - numerical value to separate the weeks for analysis.
 
 2 weeks record (Events).csv
-Date - MM/DD/YYYY
-Electricity_cuts - categorical values stating whether the electricity cuts are 'Normal' (scheduled cuts), or 'Severe' (no scheduled with long cuts)
-Connection_problem - categorical values also stating the coonection is 'Normal' (Low disturbance) or 'Severe' (long connection lost time)
-Min, Avg, Max Tmeperatures (celsius) - temperature data of my home town collected from public weather records.
+- Date - MM/DD/YYYY
+- Electricity_cuts - categorical values stating whether the electricity cuts are 'Normal' (scheduled cuts), or 'Severe' (no scheduled with long cuts)
+- Connection_problem - categorical values also stating the coonection is 'Normal' (Low disturbance) or 'Severe' (long connection lost time)
+- Min, Avg, Max Tmeperatures (celsius) - temperature data of my home town collected from public weather records.
 
 Story overview
 
