@@ -35,8 +35,8 @@ Key Findings
 
 Future Decision making
 
-Scheduling Study time and other important activities: To increase efficiency in my routines and be able to face electricity cuts and connection problems.
-Adjusting Screen Time: reducing screen time will be helpful since it take majority of the time of the days. And extra time could be allocated to other activities such as study in non-exam week to avoid last minute preparations
+- Scheduling Study time and other important activities: To increase efficiency in my routines and be able to face electricity cuts and connection problems.
+- Adjusting Screen Time: reducing screen time will be helpful since it take majority of the time of the days. And extra time could be allocated to other activities such as study in non-exam week to avoid last minute preparations
 
 Ethical Discussion
 
